@@ -1,0 +1,56 @@
+IntelliJ IDEA Ultimate.app
+PyCharm Professional.app
+PhpStorm.app
+DataGrip.app
+Visual Studio Code.app
+Paymo Widget.app
+VLC.app
+DB Browser for SQLite.app
+Bartender 3.app
+Zotero.app
+ndm.app
+XtraFinder.app
+Steam.app
+AmpKit.app
+Dropbox.app
+Lyrics.app
+aText.app
+Microsoft Remote Desktop.app
+XAMPP.app
+Spotify.app
+iMovie.app
+Dash.app
+Microsoft Word.app
+Gray.app
+Adobe Acrobat Reader DC.app
+Pocket.app
+Magnet.app
+Amphetamine.app
+Microsoft Excel.app
+FileZilla Pro.app
+Hyper.app
+WhatsApp.app
+Python 3.7/Python Launcher.app
+FreeMind.app
+Backup and Sync.app
+SelfControl.app
+Brave Browser.app
+GarageBand.app
+VirtualBox.app
+Insomnia.app
+Sophos Home.app
+Microsoft OneNote.app
+Skype.app
+Rocket.app
+GitKraken.app
+Mark Text.app
+CheatSheet.app
+Camunda Modeler.app
+Postman.app
+JetBrains Toolbox.app
+Microsoft PowerPoint.app
+draw.io.app
+Thor.app
+Balsamiq Mockups 3.app
+iStudiez Pro.app
+Sublime Text.app
